@@ -1,0 +1,6 @@
+{
+  "name": "PRL Naval Quest - Simulador de Seguridad y Salud",
+  "description": "Simulador educativo 2D interactivo estilo Zelda para el aprendizaje de Prevención de Riesgos Laborales (PRL) en astilleros y mantenimiento naval con evaluación por sesiones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
